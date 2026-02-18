@@ -84,7 +84,9 @@ genres
 sales transactions
 
 Author
+
 Macarios Sossy
+
 Aspiring Data Analyst | Python | SQL | Power BI
 
 Transitioning from U.S. Army Signal Corps into analytics & fintech.
