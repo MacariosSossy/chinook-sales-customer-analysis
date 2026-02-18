@@ -82,8 +82,8 @@ artists
 genres
 
 sales transactions
-Author
 
+Author
 Macarios Sossy
 Aspiring Data Analyst | Python | SQL | Power BI
 
